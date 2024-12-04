@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.NoActionBar.Fullscreen">
+        <item name="android:colorAccent">@color/light_blue</item>
+	</style>
+    <style name="AppThemeL" parent="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen">
+        <item name="android:colorAccent">@color/light_blue</item>
+	</style>
+</resources>
